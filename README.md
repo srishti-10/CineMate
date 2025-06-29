@@ -283,10 +283,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 
-- **Backend Development**: [Your Name]
-- **Frontend Development**: [Your Name]
-- **Database Design**: [Your Name]
-- **DevOps & Deployment**: [Your Name]
+Priyanka Sirikonda
+Srishti Binwani
+Ajay Srivathsan
 
 ## 📞 Support
 
