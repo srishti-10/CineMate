@@ -1,0 +1,3 @@
+streamlit==1.28.1
+requests
+protobuf==3.20.3 
