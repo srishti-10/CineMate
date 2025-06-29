@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+redis
+neo4j
+python-dotenv 
+passlib[bcrypt]
+pandas
+requests
