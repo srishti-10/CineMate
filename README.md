@@ -283,9 +283,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 
-Priyanka Sirikonda
-Srishti Binwani
-Ajay Srivathsan
+Priyanka Sirikonda, Srishti Binwani, Ajay Srivathsan
 
 ## 📞 Support
 
